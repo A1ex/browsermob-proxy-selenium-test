@@ -12,5 +12,8 @@
     "browsermob-proxy": "^1.0.9",
     "fs": "0.0.1-security",
     "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "dependencies": {
+    "selenium-chromedriver": "0.0.2"
   }
 }
